@@ -1,0 +1,10 @@
+employeeID,employeeName,phoneNo,street,city,state,zip,job,dealershipID
+123,Blanche Contreras,5082341234,12 Merlin Dr,Springfield,Ohio,45501,HR,1
+123,Ferdinand Rush,5082769875,23 Jackson Ave,Dartmouth,Massachusetts,02747,HR,2
+165,Dan Jackson,5081679257,6 Lawrence St,Springfield,Ohio,45502,Manager,1
+230,Greta Schultz,5081683475,9 Prince St,Swansea,Massachusetts,02777,Sales,2
+231,John Smith,4010080246,96 Orion Dr,Seekonk,Massachusetts,02770,Manager,2
+245,Alberto Rush,6179835784,3 Trent St,New York City,New York,10019,Sales,3
+479,Steve Jobb,8964458789,45 Fawn Rd,New York City,New York,10019,Manager,3
+652,Ismael Dalton,4256767846,15 Merlin Dr,New York City,New York,10019,HR,3
+654,Mikel Christensen,3467568467,8 Mango Cr,Springfield,Ohio,45501,Sales,1
